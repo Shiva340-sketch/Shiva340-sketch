@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shiva340-sketch 
 - 👀 I’m interested in  data science
 - 🌱 I’m currently learning   python
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me 
 st675664@gmail.com
 
